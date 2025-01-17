@@ -3,9 +3,9 @@
   <span class="author-block">
     Zixuan Wang<sup>1</sup>,</span>
   <span class="author-block">
-    Yu-Wing Tai<sup>2</sup>,</span>
-  <span class="author-block">
     Chi-Keung Tang<sup>1</sup>,</span>
+    <span class="author-block">
+    Yu-Wing Tai<sup>2</sup>,</span>
 </div>
 <div align="center">
   <span class="author-block"><sup>1</sup>HKUST,</span>
